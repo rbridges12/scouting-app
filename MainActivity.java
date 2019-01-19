@@ -18,7 +18,6 @@ import android.widget.CompoundButton;
 import android.widget.ListView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
-
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
